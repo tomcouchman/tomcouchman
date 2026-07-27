@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Tom
 
-<!--
-**tomcouchman/tomcouchman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring SOC analyst based in Fife, Scotland, currently building practical defensive-security skills.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Studying for CompTIA Security+
+- Developing Python cybersecurity projects
+- Practising log analysis and detection
+- Building experience through TryHackMe
+
+## Featured projects
+
+- HomeSOC Log Analyzer
+- Cybersecurity Portfolio
+
+## Links
+
+- Portfolio: https://tomcouchman.github.io
+- TryHackMe: https://tryhackme.com/p/tcouchman
