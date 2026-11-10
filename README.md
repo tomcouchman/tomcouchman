@@ -4,9 +4,7 @@ I'm an aspiring SOC analyst based in Fife, Scotland, building practical defensiv
 
 ## Certifications
 
-- CompTIA Security+ (SY0-701) — November 2026
-
-  [<img src="https://images.credly.com/images/74790a75-8451-400a-8536-92d792c5184a/twitter_thumb_201604_CompTIA_Security_2Bce.png" alt="CompTIA Security+ CE digital badge" width="84" height="84">](https://www.credly.com/earner/earned/share/7baebdc0-1b12-4fb4-9b12-897b9d6ace3b)
+- CompTIA Security+ (SY0-701) — November 2026 · [<img src="https://images.credly.com/images/74790a75-8451-400a-8536-92d792c5184a/twitter_thumb_201604_CompTIA_Security_2Bce.png" alt="View Security+ Credly badge" width="24" height="24">](https://www.credly.com/earner/earned/share/7baebdc0-1b12-4fb4-9b12-897b9d6ace3b)
 - Google Cybersecurity Professional Certificate — March 2026
 
 ## Current focus
